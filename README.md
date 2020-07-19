@@ -1,3 +1,3 @@
 # git-essentials
 
-Some new stuff in here
+This is a course to learn how to use everyday git.
